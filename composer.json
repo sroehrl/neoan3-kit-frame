@@ -1,0 +1,24 @@
+{
+  "name": "sroehrl/neoan3-kit-frame",
+  "type": "neoan3-frame",
+  "description": "starter frame",
+  "require": {
+    "composer/installers": "~1.0",
+    "php": "^5.6 || ^7.0",
+    "ext-json": "*",
+    "pug-php/pug": "^3.2",
+    "leafo/scssphp": "0.7.6",
+    "neoan3-apps/db": "dev-master",
+    "neoan3-apps/curl": "dev-master",
+    "neoan3-apps/session": "dev-master",
+    "neoan3-apps/ops": "dev-master",
+    "neoan3-apps/js": "dev-master"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "neoan",
+      "email": "neoan@neoan.us"
+    }
+  ]
+}
