@@ -1,6 +1,7 @@
 {
   "name": "neoan3-frame/kit",
   "description": "starter frame",
+  "minimum-stability": "dev",
   "require": {
     "composer/installers": "~1.0",
     "php": "^5.6 || ^7.0",
