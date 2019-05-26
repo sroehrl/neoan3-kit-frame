@@ -73,7 +73,6 @@ class Kit extends Serve {
             ],
             'stylesheet'=>[
                 ''.base.'frame/kit/kit.css',
-                'https://cdnjs.cloudflare.com/ajax/libs/angular-material/1.1.3/angular-material.min.css',
                 'https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic'
             ],
             'meta'=>[
